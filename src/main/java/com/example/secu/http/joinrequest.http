@@ -1,0 +1,10 @@
+POST http://localhost:8080/api/v1/users/join
+Content-Type: application/json
+
+{
+  "userId": "suwan",
+  "password": "suwan",
+  "userName": "suwan",
+  "email": "suwan@naver.com",
+  "phone": "010"
+}
